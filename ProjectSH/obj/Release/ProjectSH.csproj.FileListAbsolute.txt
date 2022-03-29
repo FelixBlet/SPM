@@ -1,0 +1,10 @@
+C:\Users\FelixBlet\source\repos\ProjectSH\ProjectSH\bin\Release\ProjectSH.exe.config
+C:\Users\FelixBlet\source\repos\ProjectSH\ProjectSH\bin\Release\ProjectSH.exe
+C:\Users\FelixBlet\source\repos\ProjectSH\ProjectSH\bin\Release\ProjectSH.pdb
+C:\Users\FelixBlet\source\repos\ProjectSH\ProjectSH\obj\Release\ProjectSH.csproj.AssemblyReference.cache
+C:\Users\FelixBlet\source\repos\ProjectSH\ProjectSH\obj\Release\ProjectSH.Form1.resources
+C:\Users\FelixBlet\source\repos\ProjectSH\ProjectSH\obj\Release\ProjectSH.Properties.Resources.resources
+C:\Users\FelixBlet\source\repos\ProjectSH\ProjectSH\obj\Release\ProjectSH.csproj.GenerateResource.cache
+C:\Users\FelixBlet\source\repos\ProjectSH\ProjectSH\obj\Release\ProjectSH.csproj.CoreCompileInputs.cache
+C:\Users\FelixBlet\source\repos\ProjectSH\ProjectSH\obj\Release\ProjectSH.exe
+C:\Users\FelixBlet\source\repos\ProjectSH\ProjectSH\obj\Release\ProjectSH.pdb
